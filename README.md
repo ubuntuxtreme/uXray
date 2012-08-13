@@ -2,7 +2,7 @@ uXray v1.0
 =====
 		License: Artistic License 2.0
 
-uXray is the best and fastest way to see the anatomy of your PC Hardware
+uXray is the best and fastest way to see the anatomy of your Ubuntu PC Hardware
 
 Dependencies: Pleas install some packages to have full functionality
 		

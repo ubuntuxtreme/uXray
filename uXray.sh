@@ -2,6 +2,7 @@
 # sudo apt-get install dmidecode lshw x86info lm-sensors
 # Setup lm-sensors using modprobe for the appropriate modules
 # Dr.Paneas
+# License: Artistic License 2.0
  
 # DEFINE PC TYPE
 _PC=`sudo dmidecode -s chassis-type`
